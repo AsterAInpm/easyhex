@@ -1,0 +1,29 @@
+{
+  "name": "easyhex",
+  "version": "1.0.2",
+  "author": {
+    "name": "Alex Baranezky"
+  },
+  "bin": {
+    "easyhex": "index.js"
+  },
+  "dependencies": {},
+  "description": "Allows you to dump files as HEX format",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "hex",
+    "dump"
+  ],
+  "license": "ISC",
+  "main": "hexdumper.js",
+  "maintainers": [
+    {
+      "name": "asterai.com",
+      "email": "asterai.com@gmail.com"
+    }
+  ],
+
+  "optionalDependencies": {},
+  "preferGlobal": "true"
+}
